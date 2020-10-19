@@ -13,7 +13,7 @@
             console.log(data);
 
             
-             //resultOutput.innerHTML = '...Result...';
+             //outputPlace.innerHTML = '...Result...';
 
         });
 
